@@ -1,0 +1,1 @@
+Proyecto clonado inicialmente de https://github.com/jquemada/random como ejercicio P2P obligatorio del Módulo 5 en el curso "Desarrollo de servicios en la nube con HTML5, Javascript y node.js" de MiríadaX.
